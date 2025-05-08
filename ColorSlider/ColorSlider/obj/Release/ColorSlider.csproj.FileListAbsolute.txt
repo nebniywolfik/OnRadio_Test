@@ -1,0 +1,8 @@
+E:\Temp\ColorSlider\ColorSlider\bin\Release\ColorSlider.dll
+E:\Temp\ColorSlider\ColorSlider\bin\Release\ColorSlider.pdb
+E:\Temp\ColorSlider\ColorSlider\obj\Release\ResolveAssemblyReference.cache
+E:\Temp\ColorSlider\ColorSlider\obj\Release\MB.Controls.ColorSlider.resources
+E:\Temp\ColorSlider\ColorSlider\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\Temp\ColorSlider\ColorSlider\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\Temp\ColorSlider\ColorSlider\obj\Release\ColorSlider.dll
+E:\Temp\ColorSlider\ColorSlider\obj\Release\ColorSlider.pdb

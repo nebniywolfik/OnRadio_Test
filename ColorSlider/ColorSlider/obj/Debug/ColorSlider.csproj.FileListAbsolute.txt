@@ -1,0 +1,178 @@
+E:\Temp\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+E:\Temp\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+E:\Temp\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\bin\Debug\ColorSlider.dll
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\bin\Debug\ColorSlider.pdb
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\ColorSlider.dll
+E:\Users\DiZ91\Проекты C#\DiZCon\DiZCon\ColorSlider\obj\Debug\ColorSlider.pdb
+E:\Новая папка\ColorSlider\bin\Debug\ColorSlider.dll
+E:\Новая папка\ColorSlider\bin\Debug\ColorSlider.pdb
+E:\Новая папка\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+E:\Новая папка\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+E:\Новая папка\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+E:\Новая папка\ColorSlider\obj\Debug\ColorSlider.dll
+E:\Новая папка\ColorSlider\obj\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+F:\Visual Studio 2015\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+F:\Visual Studio 2015\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\ColorSlider\ColorSlider\bin\Debug\Bass.Net.dll
+D:\C#  проэкты\On_Radio\c#\OnRadio\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\C#  проэкты\On_Radio\c#\OnRadio\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\C#  проэкты\On_Radio\c#\OnRadio\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\C#  проэкты\On_Radio\c#\OnRadio\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\C#  проэкты\On_Radio\c#\OnRadio\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\C#  проэкты\On_Radio\c#\OnRadio\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\C#  проэкты\On_Radio\c#\OnRadio\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.7\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.7\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.7\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.7\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.7\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.7\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.7\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+C:\Users\Operator\Desktop\v.1.21.06.11\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+C:\Users\Operator\Desktop\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+C:\Users\Operator\Desktop\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+C:\Users\Operator\Desktop\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+C:\Users\Operator\Desktop\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\ColorSlider\ColorSlider\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\ColorSlider\ColorSlider\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\ColorSlider\ColorSlider\obj\Debug\MB.Controls.ColorSlider.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\ColorSlider\ColorSlider\obj\Debug\ColorSlider.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\ColorSlider\ColorSlider\obj\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\ColorSlider\ColorSlider\obj\Debug\ColorSlider.pdb

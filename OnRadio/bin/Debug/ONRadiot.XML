@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <name>OnRadio</name>
+    <table>
+        <database></database>
+        <name>ONFavorit</name>
+        <ddl>CREATE TABLE &quot;ONFavorit&quot; (
+        	&quot;STANSIA&quot;	VARCHAR(25) NOT NULL UNIQUE
+        )</ddl>
+        <columns>
+            <column>
+                <name>STANSIA</name>
+                <type>VARCHAR</type>
+                <constraints>
+                    <constraint>
+                        <type>NOT NULL</type>
+                        <definition>NOT NULL </definition>
+                    </constraint>
+                    <constraint>
+                        <type>UNIQUE</type>
+                        <definition>UNIQUE
+                        </definition>
+                    </constraint>
+                </constraints>
+            </column>
+        </columns>
+        <rows>
+            <row>
+                <value column="0">DIM FM</value>
+            </row>
+            <row>
+                <value column="0">HFM Ibiza</value>
+            </row>
+            <row>
+                <value column="0">Radio XFM</value>
+            </row>
+            <row>
+                <value column="0">Vocal Trance Radio</value>
+            </row>
+            <row>
+                <value column="0">Vocal Deep House</value>
+            </row>
+            <row>
+                <value column="0">RCM DEEP FM</value>
+            </row>
+            <row>
+                <value column="0">Радио 13</value>
+            </row>
+        </rows>
+    </table>
+    <table>
+        <database></database>
+        <name>ONplaylist</name>
+        <ddl>CREATE TABLE ONplaylist (STANSIA VARCHAR (25) UNIQUE NOT NULL, URL_ST VARCHAR (128) UNIQUE NOT NULL, IMAGE_ST BLOB)</ddl>
+        <columns>
+            <column>
+                <name>STANSIA</name>
+                <type>VARCHAR</type>
+                <constraints>
+                    <constraint>
+                        <type>UNIQUE</type>
+                        <definition>UNIQUE </definition>
+                    </constraint>
+                    <constraint>
+                        <type>NOT NULL</type>
+                        <definition>NOT NULL</definition>
+                    </constraint>
+                </constraints>
+            </column>
+            <column>
+                <name>URL_ST</name>
+                <type>VARCHAR</type>
+                <constraints>
+                    <constraint>
+                        <type>UNIQUE</type>
+                        <definition>UNIQUE </definition>
+                    </constraint>
+                    <constraint>
+                        <type>NOT NULL</type>
+                        <definition>NOT NULL</definition>
+                    </constraint>
+                </constraints>
+            </column>
+            <column>
+                <name>IMAGE_ST</name>
+                <type>BLOB</type>
+            </column>
+        </columns>
+        <rows>
+            <row>
+                <value column="0">Радио 13</value>
+                <value column="1">http://play.radio13.ru:8000/radio13-128-mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Гоп FM</value>
+                <value column="1">http://air2.radiorecord.ru:805/gop_320</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Радио Свобода</value>
+                <value column="1">http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Радио Ваня</value>
+                <value column="1">http://91.219.74.220:8000/Vanya-high.mp3</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Радио Шансон</value>
+                <value column="1">http://chanson.hostingradio.ru:8041/chanson256.mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Ретро FM</value>
+                <value column="1">http://retro256.streamr.ru/</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Радио Пятница Украина</value>
+                <value column="1">http://cast.radiogroup.com.ua:8000/radiopyatnica</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Радио Мир</value>
+                <value column="1">http://icecast.mirtv.cdnvideo.ru:8000/radio_mir128</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Наше Радио</value>
+                <value column="1">http://nashe.streamr.ru/nashe-128.mp3</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Life-Radio</value>
+                <value column="1">http://listen.life-radio.ru:8019/liferadioru</value>
+                <value column="2">����:Exif</value>
+            </row>
+            <row>
+                <value column="0">Дорожное радио</value>
+                <value column="1">http://dorognoe.hostingradio.ru:8000/dorognoe</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Старое Радио</value>
+                <value column="1">http://195.91.237.50:8000/detskoe128</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Перец Украина</value>
+                <value column="1">http://radio.stilnoe.fm:8080/radio-stilnoe</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Amsterdam Trance Radio</value>
+                <value column="1">http://sc-atr.1.fm:7700/;</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Радио MIX Украина</value>
+                <value column="1">http://mixfm.com.ua:8192/;</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Фреш FM Украина</value>
+                <value column="1">http://193.53.83.3:8000/fresh-fm_mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Best FM Украина</value>
+                <value column="1">http://radio.bestfm.fm:8080/bestfm_mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Radio XFM</value>
+                <value column="1">http://eu.stream4cast.com:8050/stream</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Радио Заречный Пенза</value>
+                <value column="1">http://85.234.36.51:8000/radio</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Melon Radio Ambient</value>
+                <value column="1">http://stream.melonradio.com/ambient</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">HFM Ibiza</value>
+                <value column="1">http://162.13.25.174/kht3hhpmb</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">RCM DEEP FM</value>
+                <value column="1">http://getradio.me/rcm</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Deep Vocal House</value>
+                <value column="1">http://vocaltrance.ru:8000/deep_320</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Старт FM  Саранск</value>
+                <value column="1">http://85.95.185.19:8000/live</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Элит Радио</value>
+                <value column="1">http://77.75.129.217:8004/elit.mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">DIM FM</value>
+                <value column="1">http://radio.mv.ru:8080/Dimfm-128-Moskva</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Аплюс Deep</value>
+                <value column="1">http://shoutcast.aplus.fm:9000/aplus_deep_128</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">SKY Радио Эстония</value>
+                <value column="1">http://sky.babahhcdn.com/SKY?/skyradio_hi.mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Fly Fm</value>
+                <value column="1">http://flyfm.net:8000/flyfm</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Vip Mix</value>
+                <value column="1">http://air.radiorecord.ru:8102/vip_320</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Kiss FM Украина</value>
+                <value column="1">http://online.kissfm.ua/KissFM_Ukr</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Радио Мелодия</value>
+                <value column="1">http://online.melodiafm.ua/MelodiaFM</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Radio ROKS</value>
+                <value column="1">http://online.radioroks.ua/RadioROKS</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Хіт FM</value>
+                <value column="1">http://online.hitfm.ua/HitFM</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Нафталин FM</value>
+                <value column="1">http://air2.radiorecord.ru:9003/naft_320</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Русское радио</value>
+                <value column="1">http://rusradio.hostingradio.ru/rusradio128.mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Europa Plus Топ 40</value>
+                <value column="1">http://eptop128.streamr.ru</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Europa Plus Москва</value>
+                <value column="1">http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Europa Plus LIGHT</value>
+                <value column="1">http://mp3128.light.streamr.ru</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">NRJ Energy 80s</value>
+                <value column="1">http://broadcast.infomaniak.ch/energy80s-high.mp3.m3u</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">NRJ Energy 90s</value>
+                <value column="1">http://broadcast.infomaniak.ch/energy90s-high.mp3.m3u</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">NRJ Energy Dance</value>
+                <value column="1">http://broadcast.infomaniak.ch/energydance-high.mp3.m3u</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Радио Монте-Карло (Тольятти)</value>
+                <value column="1">http://den.101.ru:4000/ho_63_05</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">RDS Relax</value>
+                <value column="1">http://icstream.rds.radio/rdsrelax</value>
+                <value column="2">����.Exif</value>
+            </row>
+            <row>
+                <value column="0">Радио Maximum (Березники)</value>
+                <value column="1">http://46.146.214.204:8002/beriki</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Наше Радио УкрТоп100</value>
+                <value column="1">http://online.nasheradio.ua/NasheRadio_Ukr_HD</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Авторадио</value>
+                <value column="1">http://radio-node-3.dline-media.com/sergach_ar1016</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Costa Del Mar Zen</value>
+                <value column="1">https://radio4.cdm-radio.com:18004/stream-mp3-Zen</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Nightride FM</value>
+                <value column="1">http://stream.nightride.fm/nightride.mp3</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Like FM (Рязань)</value>
+                <value column="1">http://pub0201.101.ru:8000/stream/reg/mp3/128/region_like_8</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Comedy Радио (Томск)</value>
+                <value column="1">http://109.194.47.19:8000/comedy</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Милицейская волна</value>
+                <value column="1">http://radio.mvd.ru:8000/mv128.mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Radio Chocolate</value>
+                <value column="1">http://choco.hostingradio.ru:10010/fm</value>
+                <value column="2">�PNG
+                
+                </value>
+            </row>
+            <row>
+                <value column="0">Country Radio</value>
+                <value column="1">http://www.play.cz/radio/countryradio128.asx</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">ETN.FM  House</value>
+                <value column="1">http://www.etn.fm:8210/house-mp3-128</value>
+                <value column="2">�PNG
+                
+                </value>
+            </row>
+            <row>
+                <value column="0">Hit FM Best</value>
+                <value column="1">http://online.hitfm.ua/HitFM_Best</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Hit FM Top</value>
+                <value column="1">http://online.hitfm.ua/HitFM_Top</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Dinamo FM Deep</value>
+                <value column="1">http://channels.dinamo.fm/deep-mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Radio ROKS Украинский рок</value>
+                <value column="1">http://online.radioroks.ua/RadioROKS_Ukr_HD</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Flash Radio</value>
+                <value column="1">http://online.radioplayer.ua/FlashRadio_HD</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Radio Gold</value>
+                <value column="1">http://online.radioplayer.ua/RadioGold_HD</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Kiss FM Deep</value>
+                <value column="1">http://online.kissfm.ua/KissFM_Deep_HD</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Мелодия FM Romantic</value>
+                <value column="1">http://online.melodiafm.ua/MelodiaFM_Romantic_HD</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Радио Релакс UA</value>
+                <value column="1">http://online.radiorelax.ua/RadioRelax_HD</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Tick Tock Radio</value>
+                <value column="1">http://streaming.ticktock.radio/tt/2021/icecast.audio</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Vocal Trance Radio</value>
+                <value column="1">http://176.9.36.203:8000/vocaltrance_320</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Vocal Positive Radio</value>
+                <value column="1">http://176.9.36.203:8000/positive_320</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Vocal Chillout</value>
+                <value column="1">http://176.9.36.203:8000/vocalchillout_320</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Vocal Deep House</value>
+                <value column="1">http://176.9.36.203:8000/deep_320</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Vocal UPLIFTING TRANCE</value>
+                <value column="1">http://176.9.36.203:8000/uplifting_320</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Сhillout-Antenne.de</value>
+                <value column="1">https://mp3channels.webradio.antenne.de/chillout</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Top40-Antenne.de</value>
+                <value column="1">https://mp3channels.webradio.antenne.de/top-40</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">NSP Pure Danse</value>
+                <value column="1">http://stream.nonstopplay.co.uk/nsppd-128k-mp3</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Enigmatic Station</value>
+                <value column="1">http://listen2.myradio24.com:9000/8226</value>
+                <value column="2">����Exif</value>
+            </row>
+            <row>
+                <value column="0">Klassik Radio Schiller</value>
+                <value column="1">http://klassikr.streamabc.net/klr-schiller-mp3-192-1913826</value>
+                <value column="2">����</value>
+            </row>
+            <row>
+                <value column="0">Пилигрим</value>
+                <value column="1">https://listen6.myradio24.com/54468</value>
+                <value column="2">����</value>
+            </row>
+        </rows>
+    </table>
+</database>

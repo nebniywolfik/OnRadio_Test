@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AboutBox_INFO" xml:space="preserve">
+    <value> About </value>
+  </data>
+  <data name="AboutBox_VER" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="button8Click" xml:space="preserve">
+    <value>Are you sure you want to remove from favorites   </value>
+  </data>
+  <data name="button8Click2" xml:space="preserve">
+    <value>  Message</value>
+  </data>
+  <data name="button8Click3" xml:space="preserve">
+    <value>Station:  </value>
+  </data>
+  <data name="button8Click4" xml:space="preserve">
+    <value> removed from favorites! </value>
+  </data>
+  <data name="button8Click5" xml:space="preserve">
+    <value> Add </value>
+  </data>
+  <data name="button8Click6" xml:space="preserve">
+    <value>  To favorites?  </value>
+  </data>
+  <data name="button8Click7" xml:space="preserve">
+    <value>added to favorites!</value>
+  </data>
+  <data name="button8text" xml:space="preserve">
+    <value>Add to favorites</value>
+  </data>
+  <data name="button8text2" xml:space="preserve">
+    <value>Remove from favorites</value>
+  </data>
+  <data name="button9text" xml:space="preserve">
+    <value>  All radio stations</value>
+  </data>
+  <data name="button9text2" xml:space="preserve">
+    <value>To favorites</value>
+  </data>
+  <data name="FileExists" xml:space="preserve">
+    <value>The database is missing!</value>
+  </data>
+  <data name="FileExists2" xml:space="preserve">
+    <value>Create a new database.</value>
+  </data>
+  <data name="RadioBTip" xml:space="preserve">
+    <value>I'm here if you change your mind</value>
+  </data>
+  <data name="RadioBTip2" xml:space="preserve">
+    <value>Now on air:</value>
+  </data>
+  <data name="TextBoxDescript" xml:space="preserve">
+    <value>OnRadio - a handy program to listen to the radio via the Internet!</value>
+  </data>
+  <data name="toolStripStatusLabeltext" xml:space="preserve">
+    <value>Playback</value>
+  </data>
+  <data name="toolStripStatusLabeltext2" xml:space="preserve">
+    <value>Suspended</value>
+  </data>
+  <data name="toolStripStatusLabeltext3" xml:space="preserve">
+    <value>No internet connection!</value>
+  </data>
+  <data name="toolStripStatusLabeltext4" xml:space="preserve">
+    <value>Connection. . . . . . . . . . .</value>
+  </data>
+  <data name="toolStripStatusLabeltext5" xml:space="preserve">
+    <value>The server is down or not responding!</value>
+  </data>
+  <data name="toolStripStatusLabeltext6" xml:space="preserve">
+    <value>Flow rate:</value>
+  </data>
+  <data name="toolStripStatusLabeltext7" xml:space="preserve">
+    <value>  kbit/s</value>
+  </data>
+  <data name="RunOnly" xml:space="preserve">
+    <value>Appendix already started  </value>
+  </data>
+  <data name="pictureOff" xml:space="preserve">
+    <value>Without sound</value>
+  </data>
+  <data name="pictureOn" xml:space="preserve">
+    <value>With sound</value>
+  </data>
+  <data name="CreateBD" xml:space="preserve">
+    <value>A database is created</value>
+  </data>
+  <data name="IDataO" xml:space="preserve">
+    <value>It was not succeeded to get information from the buffer of exchange</value>
+  </data>
+  <data name="picDel_C" xml:space="preserve">
+    <value>Deleting an entry  </value>
+  </data>
+  <data name="picDel_C1" xml:space="preserve">
+    <value>Do you indeed want to delete a record? </value>
+  </data>
+  <data name="picDel_C2" xml:space="preserve">
+    <value>radio is the station:  </value>
+  </data>
+  <data name="picDel_C3" xml:space="preserve">
+    <value>It is impossible it will be to recover a record!</value>
+  </data>
+  <data name="picDel_C4" xml:space="preserve">
+    <value>It was not succeeded to make alteration</value>
+  </data>
+  <data name="picDel_C5" xml:space="preserve">
+    <value>A record is not changed </value>
+  </data>
+  <data name="picFdialog_C" xml:space="preserve">
+    <value> The size of image falls short of. </value>
+  </data>
+  <data name="picFdialog_C1" xml:space="preserve">
+    <value> It is necessary 210 х 64 pixel. </value>
+  </data>
+  <data name="picFdialog_C2" xml:space="preserve">
+    <value> Size of image: width =  </value>
+  </data>
+  <data name="picFdialog_C3" xml:space="preserve">
+    <value> ,height =  </value>
+  </data>
+  <data name="picFdialog_C4" xml:space="preserve">
+    <value> pixel. </value>
+  </data>
+  <data name="picFdialog_C5" xml:space="preserve">
+    <value> Will you choose other image? </value>
+  </data>
+  <data name="picFdialog_C6" xml:space="preserve">
+    <value>Choice of logotype</value>
+  </data>
+  <data name="picFdialog_C7" xml:space="preserve">
+    <value>A logotype is not chosen </value>
+  </data>
+  <data name="picFdialog_C8" xml:space="preserve">
+    <value>It was not succeeded to make alteration </value>
+  </data>
+  <data name="picSave_C" xml:space="preserve">
+    <value>Editing  of records </value>
+  </data>
+  <data name="picSave_C1" xml:space="preserve">
+    <value>It is necessary to fill all fields </value>
+  </data>
+  <data name="picSave_C2" xml:space="preserve">
+    <value>Do you want to change a record? </value>
+  </data>
+  <data name="picSave_C3" xml:space="preserve">
+    <value>  will be changed on  </value>
+  </data>
+  <data name="picSave_C4" xml:space="preserve">
+    <value>  -changed on  </value>
+  </data>
+  <data name="SaveImag" xml:space="preserve">
+    <value> saved to the database.</value>
+  </data>
+  <data name="sortMenuOff" xml:space="preserve">
+    <value>No sorting</value>
+  </data>
+  <data name="sortMenuOn" xml:space="preserve">
+    <value>Sorting (A to Z)</value>
+  </data>
+  <data name="count_str" xml:space="preserve">
+    <value>In all the stations: </value>
+  </data>
+  <data name="is_recorded" xml:space="preserve">
+    <value>Recording</value>
+  </data>
+  <data name="Recording_saved" xml:space="preserve">
+    <value>Recording saved in: </value>
+  </data>
+  <data name="Start_record" xml:space="preserve">
+    <value>Start recording?</value>
+  </data>
+  <data name="Stop_recording" xml:space="preserve">
+    <value>Stop recording?</value>
+  </data>
+  <data name="Open_folder" xml:space="preserve">
+    <value>Open file folder?</value>
+  </data>
+</root>

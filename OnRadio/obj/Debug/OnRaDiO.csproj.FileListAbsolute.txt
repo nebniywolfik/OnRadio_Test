@@ -1,0 +1,1377 @@
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.exe.config
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.exe
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.pdb
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csprojResolveAssemblyReference.cache
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.Form1.resources
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.Properties.Resources.resources
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csproj.GenerateResource.Cache
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.exe
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.pdb
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\bin\Debug\ColorSlider.dll
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\bin\Debug\ColorSlider.pdb
+c:\users\valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.About.resources
+C:\Users\Valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\bin\Debug\Interop.WMPLib.dll
+C:\Users\Valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\Interop.WMPLib.dll
+C:\Users\Valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Valentin\documents\visual studio 2015\Projects\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csproj.ResolveComReference.cache
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.exe.config
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\Interop.WMPLib.dll
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\AxInterop.WMPLib.dll
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csproj.ResolveComReference.cache
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.exe
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.pdb
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.exe
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.pdb
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\bin\Debug\ColorSlider.dll
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\bin\Debug\ColorSlider.pdb
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\bin\Debug\Interop.WMPLib.dll
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\bin\Debug\AxInterop.WMPLib.dll
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csprojResolveAssemblyReference.cache
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.Form1.resources
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.About.resources
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.Properties.Resources.resources
+F:\MAX\C# Maxim\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.exe.config
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.exe
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.pdb
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.exe
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\bin\Debug\OnRaDiO.pdb
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.Form1.resources
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\OnRaDiO\OnRaDiO\obj\Debug\OnRaDiO.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+G:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\OnRadio.exe.config
+G:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\Interop.WMPLib.dll
+G:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+G:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+G:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.exe
+G:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.pdb
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\OnRadio.exe.config
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.exe
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.pdb
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\App.config
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\OnRadio.exe
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\OnRadio.pdb
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\ColorSlider.dll
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\ColorSlider.pdb
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\C#  проэкты\On_Radio\c#\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\C#\OnRadio\OnRadio\obj\Debug\OnRadio.pdb
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\bin\Debug\OnRadio.exe.config
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\OnRadio.exe
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\OnRadio.pdb
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\bin\Debug\App.config
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\bin\Debug\OnRadio.exe
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\bin\Debug\OnRadio.pdb
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\bin\Debug\ColorSlider.dll
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\bin\Debug\ColorSlider.pdb
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\bin\Debug\Interop.WMPLib.dll
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\OnRadio.Form1.resources
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+C:\Users\Valentin\Desktop\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\C#\2\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v 1.21.06.1\OnRadio - копия\OnRadio\bin\Debug\version.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\version.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.2\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\version.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\EntityFramework.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\System.Data.SQLite.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\EntityFramework.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.5\OnRadio\bin\Debug\System.Data.SQLite.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\version.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\EntityFramework.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\System.Data.SQLite.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\EntityFramework.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\System.Data.SQLite.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.6\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\C#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\EntityFramework.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\System.Data.SQLite.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\EntityFramework.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\System.Data.SQLite.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.7\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\EntityFramework.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\System.Data.SQLite.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\EntityFramework.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\System.Data.SQLite.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.8\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\OnRadio.exe.config
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.exe
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.pdb
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.Form1.resources
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\App.config
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\OnRadio.exe
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\OnRadio.pdb
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\ColorSlider.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\EntityFramework.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\System.Data.SQLite.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\ColorSlider.pdb
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\EntityFramework.xml
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\System.Data.SQLite.xml
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\Interop.WMPLib.dll
+C:\Users\Operator\Desktop\v.1.21.06.10\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.exe.config
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.exe
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.pdb
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\App.config
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.exe
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.pdb
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\ColorSlider.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\ColorSlider.pdb
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.xml
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.xml
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\Interop.WMPLib.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.Form1.resources
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+C:\Users\Operator\Desktop\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\c#\С реестром\v.1.21.06.11\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\OnRadio.exe.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\App.config
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\OnRadio.exe
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\OnRadio.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\ColorSlider.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\EntityFramework.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\System.Data.SQLite.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\ColorSlider.pdb
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\EntityFramework.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\System.Data.SQLite.xml
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\Interop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.Form1.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+F:\Visual Studio 2015\OnRadio\c#\v.1.21.06.12\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.01.01\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\OnRadio.exe.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\App.config
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\OnRadio.exe
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\OnRadio.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\ColorSlider.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\EntityFramework.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\ColorSlider.pdb
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\EntityFramework.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\VisualStudio_Project\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.03.02\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.03.02\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.3.2\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.1\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.2\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.3\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.4\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.5\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.6 - копия\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.7\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.8\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.5.9\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.7\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.7.1\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.22.8.1\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.Form1.en.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\bin\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\OnRadio.Form1.uk.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.4.1\OnRadio\obj\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.Form1.en.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.Form1.uk.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.5.1\OnRadio\obj\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.Form1.en.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.Form1.uk.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.6.1\OnRadio\obj\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.Form1.en.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.Form1.uk.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.23.11.1\OnRadio\obj\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.Form1.en.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.Form1.uk.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1\OnRadio\obj\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\OnRadio.exe.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\App.config
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\OnRadio.exe
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\OnRadio.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\uk\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\ColorSlider.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\EntityFramework.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\System.Data.SQLite.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\ColorSlider.pdb
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\EntityFramework.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\System.Data.SQLite.xml
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\Interop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\bin\Debug\AxInterop.WMPLib.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.AboutBox1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.Form1.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.MyStrings.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.Properties.Resources.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.AboutBox1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.AboutBox1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.Form1.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.Form1.en.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.Form1.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.Form1.uk.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.MyStrings.en-US.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.MyStrings.uk-UA.resources
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\en-US\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\uk-UA\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\en\OnRadio.resources.dll
+D:\Visual Studio 2015\OnRadio\c#\v.1.24.5.1S\OnRadio\obj\Debug\uk\OnRadio.resources.dll
+C:\Users\Valentin\Desktop\v.1.24.5.1S\OnRadio\bin\Debug\OnRadio.exe.config
+C:\Users\Valentin\Desktop\v.1.24.5.1S\OnRadio\obj\Debug\Interop.WMPLib.dll
+C:\Users\Valentin\Desktop\v.1.24.5.1S\OnRadio\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Valentin\Desktop\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.csproj.ResolveComReference.cache
+C:\Users\Valentin\Desktop\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.exe
+C:\Users\Valentin\Desktop\v.1.24.5.1S\OnRadio\obj\Debug\OnRadio.pdb
